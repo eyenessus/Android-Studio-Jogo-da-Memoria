@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="1mm">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/primeiraimagem"
+            tools:srcCompat="@drawable/backcard" />
+
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imagem2"
+            tools:srcCompat="@drawable/backcard" />
+
+
+        <ImageView
+            android:id="@+id/image3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imagem3"
+            tools:srcCompat="@drawable/backcard" />
+
+        <ImageView
+            android:id="@+id/image4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imagem4"
+            tools:srcCompat="@drawable/backcard" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/image5"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/primeiraimagem"
+            tools:srcCompat="@drawable/backcard" />
+
+        <ImageView
+            android:id="@+id/image6"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imagem2"
+            tools:srcCompat="@drawable/backcard" />
+
+
+        <ImageView
+            android:id="@+id/image7"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imagem3"
+            tools:srcCompat="@drawable/backcard" />
+
+        <ImageView
+            android:id="@+id/image8"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imagem4"
+            tools:srcCompat="@drawable/backcard" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/image9"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/primeiraimagem"
+            tools:srcCompat="@drawable/backcard" />
+
+        <ImageView
+            android:id="@+id/image10"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imagem2"
+            tools:srcCompat="@drawable/backcard"/>
+
+
+        <ImageView
+            android:id="@+id/image11"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imagem3"
+            tools:srcCompat="@drawable/backcard" />
+
+        <ImageView
+            android:id="@+id/image12"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imagem4"
+            tools:srcCompat="@drawable/backcard" />
+
+    </LinearLayout>
+
+</LinearLayout>

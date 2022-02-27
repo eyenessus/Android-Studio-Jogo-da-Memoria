@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JogoDaMemoria</string>
+    <string name="primeiraimagem">PrimeiraImagem</string>
+    <string name="imagem2">Imagem2</string>
+    <string name="imagem3">Imagem3</string>
+    <string name="imagem4">Imagem4</string>
+</resources>
