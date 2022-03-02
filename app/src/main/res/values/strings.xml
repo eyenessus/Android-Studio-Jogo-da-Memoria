@@ -4,4 +4,6 @@
     <string name="imagem2">Imagem2</string>
     <string name="imagem3">Imagem3</string>
     <string name="imagem4">Imagem4</string>
+    <string name="ultimaimagem" />
+    <string name="image1" />
 </resources>
